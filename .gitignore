@@ -1,0 +1,7 @@
+#Fichero para ignorar archivos de nuestro repositorio
+
+# Copias de seguridad
+*.bak
+
+# Clases compiladas
+*.class
